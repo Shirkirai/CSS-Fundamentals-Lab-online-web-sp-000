@@ -11,7 +11,7 @@ header {
 
 section#featured-property {
     text-align: center;
-    margin: auto;
+    margin-left: auto;
 }
 
 #featured-property p {
