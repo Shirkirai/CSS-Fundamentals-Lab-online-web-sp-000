@@ -29,5 +29,5 @@ section#featured-property {
 }
 
 section#details {
-    display: inline-block;
+    display: block
 }
