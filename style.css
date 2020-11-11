@@ -33,5 +33,6 @@ section#details {
 }
 
 div {
-    float: left
+    float: left;
+    width: 25%
 }
